@@ -1,3 +1,0 @@
-xml   提示   <=:.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVW(,
-java  提示  abcdefghijklmnopqrstuvwxyz.
-js    提示   .abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVW
